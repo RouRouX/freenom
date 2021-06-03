@@ -313,7 +313,7 @@ $ cd /data/wwwroot/freenom/ && php run
 
 ![pay](https://s2.ax1x.com/2020/01/31/1394at.png "Donate")
 
-![每一次你花的钱都是在为你想要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
+![每一次你花的钱都是在为你要的世界投票。](https://s2.ax1x.com/2020/01/31/13P8cF.jpg)
 
 **你的star或者小额打赏是我长期维护此项目的动力所在，由衷感谢每一位支持者，“每一次你花的钱都是在为你想要的世界投票”。**
 
